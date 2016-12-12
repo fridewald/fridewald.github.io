@@ -1,2 +1,2 @@
 My own Blog.
-Used [daatali/beautifull-jekyll](https://github.com/daattali/beautifull-jekyll)
+Used [daatali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
