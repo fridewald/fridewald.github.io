@@ -262,6 +262,12 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 
+footer .cc-img {
+    border-width: 0px;
+    width: 8%;
+    height: 8%
+}
+
 @media only screen and (min-width: 768px) {
   footer {
     padding: 50px 0;
