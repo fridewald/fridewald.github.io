@@ -54,6 +54,7 @@ Wir stehen auf und - oh Wunder – die Zelte sind trocken. Sehr geil. Nach dem F
 ![]({{ site.url }}/img/201509_Scottland/P1030218.JPG)
 ![]({{ site.url }}/img/201509_Scottland/P1030228.JPG)
 ![]({{ site.url }}/img/201509_Scottland/P1030230.JPG)
+
 # Tag 11 11.09 41,8miles
 Heute wollen wir irgendwie kurz vor Glasgow kommen. Wird wieder mehr oder weniger pünktlich aufgestanden. Die Wiese ist übrigens immer noch geil. Und erst mal berghoch. Runter nach Invervary, dort eine Stunde Sachen gekauft, aufs Klo gegangen und Wasser nachgefüllt. Außerdem war hier so ein Touri-Dudelsackspieler der aber ganz gut gespielt hat. So und dann geht es um Loch Fyne und hoch und hoch ganz schön ordentlich. Mittagspause vor so einem verfallenem Haus neben der Straße. Und dann irgendwann wieder runter zum Loch Long. Dem wird gefolgt an einer Militärbasis vorbei bis nach Garelochbead. Um 4pm machen wir hier auf einem Rastplatz halt und bleiben. Als wir Abendessen machen wollen und Simon den Kocher raus holt, stellt er fest, dass das Saucenglas kaputt gegangen ist – hm lecker alles in der Tasche verteilt. Sauber machen, neue Sauce im nächsten Dorfladen besorgen und das Abendessen ist gerettet. Rest vom Abend wieder Karten.
 
