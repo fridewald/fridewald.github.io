@@ -41,7 +41,7 @@ avatar: "/img/avatar_lookwada.JPG"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Julian Lukwata
-  email: julian.lukwata@gmail.com
+  email: julianlukwata@gmail.com
   facebook: d2quadra  # eg. daattali
   github:     # eg. daattali
   twitter: d2quadra   # eg. daattali
@@ -90,7 +90,7 @@ url-pretty: "lookwada.de"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-103551958-1"
 
 # Facebook App ID
 # fb_app_id: ""
